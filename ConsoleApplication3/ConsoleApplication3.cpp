@@ -1,6 +1,10 @@
 ﻿#include <iostream>
+#include <vector>
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    vector<float> v;
+    v.push_back(16.2);
 }
